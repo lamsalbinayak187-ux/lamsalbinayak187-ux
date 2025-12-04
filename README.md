@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Binayak Lamsal👋
 
-<!--
-**lamsalbinayak187-ux/lamsalbinayak187-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a research-driven Chemical Engineer with interdisciplinary experience spanning process engineering, nanotechnology, quantum chemistry fundamentals, and environmental systems design. My work bridges experimental methods and computational tools—ranging from nanofiber fabrication and electrospinning to process simulations, adsorption studies, and scrubber system optimization. I am particularly interested in developing efficient, sustainable, and scalable chemical processes through rigorous analysis, simulation, and data-driven evaluation.
 
-Here are some ideas to get you started:
+### 🔧 Skills
+- Aspen Plus, Aspen HYSYS,Materials Visualizer,dmol3,CASTEP, Aspen
+  Adsorption,COMSOL Multiphysics, Autocad Plant3D, Autodesk Fusion 360, Solidwork 
+- Python, C
+- Chemical Process Simulation  
+- Data analysis & modeling  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Featured Projects
+- **Project 1** – one-line description ([link](https://github.com/yourusername/project1))
+- **Project 2** – one-line description ([link](https://github.com/yourusername/project2))
+- **Project 3** – one-line description ([link](https://github.com/yourusername/project3))
+
+### 📫 Contact
+- Email:  lamsalbinayak187@gmail.com
+- Upwork- upwork.com/freelancers/binayakl
